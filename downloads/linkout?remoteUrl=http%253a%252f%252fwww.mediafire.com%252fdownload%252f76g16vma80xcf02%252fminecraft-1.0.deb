@@ -1,0 +1,593 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-us" class="no-js">
+<!--<![endif]-->
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8">
+    <title>Link Warning - Minecraft Forum </title>
+    <meta name="description" content="" />
+    <meta name="theme-color" content="#121212" />
+
+    <!-- Responsive Meta Tag -->
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
+
+    
+        <link rel="shortcut icon" href="https://media.minecraftforum.net/avatars/0/1/635356669593325566.png" />
+    
+
+    <!-- Links -->
+    
+    
+
+    <!-- Meta Properties -->
+    <meta name="robots" content="noindex" />
+
+    
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="/Content/1-7-10006-0/Skins/Blocks/css/compiled.css"/>
+<link rel="stylesheet" href="/Content/1-7-10006-0/Skins/MinecraftForum/css/compiled.css"/>
+<link rel="stylesheet" type="text/css" href="/api/custom-css.css?v=59" />
+    
+
+    <!-- <script type="text/javascript">
+        var onloadCallback = function () {
+            Cobalt.runOnHtmlInsert(Cobalt.Forms.handlegReCaptchaRender);
+        };
+    </script>-->
+
+    <!-- <script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit' async defer></script> -->
+    <script src="https://apis.google.com/js/platform.js"></script>
+
+    <!-- JavaScript -->
+    <script src="/js/jquery-migration.js?v=GjyiFSP641QXo5QcmpaUW1L8laD5rKWzPP0n7lEpHPo1"></script>
+
+        <script src="/js/jquery.js?v=9SbQEGdGs92CCsKOwK7Uga60hOh-0Ey63hZ6X2Smhw01"></script>
+
+        <script src="/js/cobalt.js?v=Etkm2r2NRJWjg-5yOzSYd2Q8XvboV2sqPMmgX_skf_o1"></script>
+
+        <script src="/js/minecraftforum.js?v=g4OOEKcpWKxm8UaIvss2a_gopIaDxDgkC89ORTn7M2g1"></script>
+
+        
+    
+    
+    <meta http-equiv="refresh" content="5;url=http://www.mediafire.com/download/76g16vma80xcf02/minecraft-1.0.deb" />
+
+
+
+ <!--AdThrive Head Tag --> 
+<script>
+(function(w, d) {
+	w.adthrive = w.adthrive || {};
+	w.adthrive.cmd = w.adthrive.cmd || [];
+	w.adthrive.plugin = 'adthrive-ads-1.0.40-manual';
+	w.adthrive.host = 'ads.adthrive.com';
+	w.adthrive.threshold = Math.floor(Math.random() * 100 + 1);
+	var s = d.createElement('script');
+	s.async = true;
+	s.referrerpolicy='no-referrer-when-downgrade';
+	s.src = 'https://' + w.adthrive.host + '/sites/5eb3f8fde81c7f4e9287fb59/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&threshold='+w.adthrive.threshold;
+	var n = d.getElementsByTagName('script')[0];
+	n.parentNode.insertBefore(s, n);
+})(window, document);
+</script>
+<!--End AdThrive Head Tag --> 
+
+<script>
+adthrive.cmd.push(function() {
+  googletag.cmd.push(function() {
+    googletag.defineSlot(
+      '/21726375739:22336181604/minecraftforum.net_14663/desktoptakeover_10742',
+      [4, 4],
+      'venatus-ad'
+    )
+    .setTargeting('to_sp', '1') 
+    .addService(googletag.pubads());
+  });
+});
+</script>
+
+</head>
+<body class="site  site-minecraftforum site-www body-linkout body-linkout-index show-ads user-anonymous lang-en site-lang-en template-none skin-light-on-dark responsive-enabled" data-user-lang="1">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-592R6HS');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-592R6HS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <!-- No Script -->
+    <noscript class="b-noscript">
+        <p><i class="b-noscript-icon"></i> This site works best with JavaScript enabled. Please enable JavaScript to get the best experience from this site.</p>
+    </noscript>
+    <!-- Layout Start -->
+    
+      <div id="venatus-ad" style="display:none !important;">     <script>       adthrive.cmd.push(function() {         googletag.cmd.push(function() {           googletag.display('venatus-ad');         });       });     </script>   </div> 
+    <div id="site" class="fixed single-column">
+        <div id="site-main">
+            <!-- Above Header, ex: Netbar -->
+            
+
+<div class="netbar">
+    
+        <a class="netbar-left netbar-help" href="http://www.minecraftforum.net/meta/support">Help</a>
+        <a href="/login?returnUrl=%2flinkout" id="login-link" class="netbar-signin netbar-right">Sign In/Register</a>
+    
+</div>
+
+            <!-- Header, ex: Logo, search, etc. -->
+            <header class="main" role="banner">
+                
+<div class="page-region p-header p-header-c">
+<h1 class="logo"><a class="title" href="/">Minecraft Forums</a></h1>
+<div class="page-block p-header-hub">
+<!-- Search --><form class="p-header-search" action="/search" method="get"><input name="search" type="search" placeholder="Search Minecraft Forums" /> <input type="submit" value=" " /><a class="tip advanced-search-link" title="Advanced Search" href="http://www.minecraftforum.net/forums/search">Advanced Search</a></form>
+</div>
+<nav class="main p-nav p-nav-a j-sticky" role="navigation">
+    <ul class="b-list b-list-a b-list_float">
+        
+    <li id="nav-news" class="  selected b-list-item p-nav-item">
+        
+            <a  href="/"  class="">
+                <span class="b-list-label">
+                   News
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-rules" class="  b-list-item p-nav-item" title="Minecraft Forum Rules &amp; Information" >
+        
+            <a  href="/meta/rules"  class="">
+                <span class="b-list-label">
+                   Rules
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-forum" class="  b-list-item p-nav-item">
+        
+            <a  href="/forums"  class="">
+                <span class="b-list-label">
+                   Forum
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-chat" class="  b-list-item p-nav-item">
+        
+            <a  href="/meta/chat"  class="">
+                <span class="b-list-label">
+                   Chat
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-mods" class="  b-list-item p-nav-item">
+        
+            <a  href="/forums/mapping-and-modding-java-edition/minecraft-mods" target='_blank' rel='noopener' class="">
+                <span class="b-list-label">
+                   Mods
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-maps" class="  b-list-item p-nav-item">
+        
+            <a  href="/forums/mapping-and-modding-java-edition/maps"  class="">
+                <span class="b-list-label">
+                   Maps
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-resource-packs" class="  b-list-item p-nav-item">
+        
+            <a  href="/forums/mapping-and-modding-java-edition/resource-packs"  class="">
+                <span class="b-list-label">
+                   Resource Packs
+    
+                </span>
+            </a>
+        
+    </li>
+
+    <li id="nav-mc-station" class="  b-list-item p-nav-item">
+        
+            <a  href="https://minecraftstation.com"  class="">
+                <span class="b-list-label">
+                   MC Station
+    
+                </span>
+            </a>
+        
+    </li>
+
+    </ul>
+    <a data-ga-click-event-tracking-category="Desktop View" id="responsive-topnav-button" class="rs-link rs-link-to-desktop">Desktop View</a>
+    
+</nav>
+</div>
+
+            </header>
+            <!-- Below Header (Ad container), ex: Leaderboard and Badge unit -->
+            <section class="ad-container">
+                <div class="ad-bin">
+                    
+        <div class="xt-placement xt-badge atf-ad-badge">
+            
+        </div>
+
+    
+        <div class="xt-placement xt-leaderboard atf-ad-leaderboard">
+            <div id="cdm-zone-01"></div>
+        </div>
+
+    
+                </div>
+            </section>
+            <!-- Above Content, Ex: Breadcrumbs -->
+            <section class="atf" role="complementary"></section>
+            <div class="container">
+                <div id="content" class="main content-container">
+                    <section class="primary-content" role="main">
+                        
+<div class="page-block ">
+
+    <!-- BREADCRUMBS -->
+    <nav class="b-breadcrumb b-breadcrumb-a">
+
+        <!-- WRAPPER -->
+        <ul class="b-breadcrumb-wrapper" itemscope itemtype="https://schema.org/BreadcrumbList">
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <meta itemprop="position" content="1" />
+                
+                        <a href="/" rel="up" itemprop="item"><span itemprop="name">Home</span></a>
+                
+                </li>
+            
+                <!-- ITEM -->
+                <li class="b-breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <meta itemprop="position" content="2" />
+                
+                        <span itemprop="name">Link Warning</span>
+                
+                </li>
+            
+
+        </ul>
+    </nav>
+
+</div>
+    
+
+<!-- Outside Caption -->
+
+<header class="h2  no-sub no-nav">
+    
+    <!-- Navigation -->
+    
+    
+    <!-- Main Title -->
+    
+    <H2 >You are about to leave Minecraft Forum</H2>  
+    
+           
+    <!-- Sub title -->
+    
+    
+</header>
+          
+<!-- Inside Caption -->
+    
+           <div class="text">
+                <p>
+    You have clicked on a link to 3rd party content, and will be redirected in a few seconds.
+    </p>
+    <p>
+    If you do not want to leave the site, please use your browser's back button.
+    </p>
+    <p>
+    Click <a a class="button" href="http://www.mediafire.com/download/76g16vma80xcf02/minecraft-1.0.deb">here</a> to continue to the link now.
+    </p>
+           </div>
+        
+                        
+        <div class="xt-placement xt-anyclip ">
+            <!--
+<div id="ACVidPlayer" style="max-width:550px;margin-left:auto;margin-right:auto;"><script src="https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js" pubname="magicfinduscom" widgetname="0011r00002Sgfyv_1569">
+</script></div>
+<script type="text/javascript">
+        window.adthrive.cmd.push(function () {
+            window.adthrive.disablePlaylistPlayers();
+        });
+</script>
+-->
+        </div>
+
+    
+                    </section>
+                </div>
+            </div>
+            
+            <!-- Above Footer -->
+            <section class="ad-container ad-container-footer">
+                <div class="ad-bin">
+                    
+        <div class="xt-placement xt-leaderboard-footer ">
+            <div id="cdm-zone-04" data-defer="true"></div>
+        </div>
+
+    
+                </div>
+            </section>
+            <div id="footer-push"></div>
+        </div>
+        <footer id="footer">
+            
+        <div class="xt-placement xt-main-med-rect-footer footer-ad-medRect">
+            <div id="cdm-zone-03" data-defer="true"></div>
+        </div>
+
+    
+
+<div class="footer-magic-find">
+    
+
+<div class="footer-container w-container">
+    <div class="divleft">
+        <div class="divlinks">
+            <div class="divhalf">
+                <div class="divmf">
+                    <a href="https://www.magicfind.us/" target="_blank" class="w-inline-block"><img src="/Content/1-7-10006-0/skins/blocks/images/footer/magicFind.png" alt="" class="image-4" width="240"></a>
+                </div>
+                <div class="divcategory">
+                    <h4 class="footerh4">Social Media</h4>
+                    <div class="divcommunities">
+                        <div class="divsocialmedia">
+                            <a href="https://discord.gg/wGrQNKX" target="_blank"><img src="/Content/1-7-10006-0/skins/blocks/images/footer/discord.png" alt="" class="image-3" width="35"></a>
+                        </div>
+                        <div class="divsocialmedia">
+                            <a href="https://www.youtube.com/user/mcspotlights" target="_blank"><img src="/Content/1-7-10006-0/skins/blocks/images/footer/yt.png" alt="" class="image-3" width="28"></a>
+                        </div>
+                        <div class="divsocialmedia">
+                            <a href="https://twitter.com/minecraftforum" target="_blank"><img src="/Content/1-7-10006-0/skins/blocks/images/footer/twr.png" alt="" class="image-3" width="38"></a>
+                        </div>
+                        <div class="divsocialmedia">
+                            <a href="https://www.facebook.com/minecraftforums" target="_blank"><img src="/Content/1-7-10006-0/skins/blocks/images/footer/fb.png" alt="" class="image-3" width="28"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="divcategory">
+                    <h4 class="footerh4">Services</h4>
+                    <div class="divcommunities">
+                        <div class="divmff">
+                            
+    <p class="footerp"><a href="/login?returnUrl=%252flinkout" target="_blank">Sign In</a></p>
+
+                        </div>
+                        <div class="divmff">
+                            <p class="footerp"><a href="http://www.minecraftforum.net/meta/support" target="_blank" rel="noopener noreferrer">Help</a></p>
+                        </div>
+                        <div class="divmff">
+                            <p class="footerp"><a href="https://www.magicfind.us/#audience" target="_blank">Advertise</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="divcategory">
+                    <h4 class="footerh4">Resources</h4>
+                    <div class="divcommunities">
+                        <div class="divmff">
+                            <p class="footerp"><a href="https://www.magicfind.us/terms/" target="_blank">Terms of Service</a></p>
+                        </div>
+                        <div class="divmff">
+                            <p class="footerp"><a href="https://www.magicfind.us/privacy/" target="_blank">Privacy Policy</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="divhalf">
+                <div class="divcategory">
+                    <h4 class="footerh4">Our Communities</h4>
+                    <div class="divcommunities">
+                        <div class="divmff">
+                            <ul class="footerlistlinks w-list-unstyled">
+                                <li class="footerp"><a href="https://www.mmo-champion.com/content/" class="link-2" target="_blank">MMO-Champion</a></li>
+                                <li class="footerp"><a href="https://www.wowdb.com/" class="link-2" target="_blank">WoWDB</a></li>
+                                <li class="footerp"><a href="https://housing.wowdb.com/" class="link-2" target="_blank">WoW Housing Hub</a></li>
+                                <li class="footerp"><a href="https://www.hearthpwn.com/" class="link-2" target="_blank">HearthPwn</a></li>
+                                <li class="footerp"><a href="https://www.minecraftforum.net/" class="link-2" target="_blank">Minecraft Forum</a></li>
+                                <li class="footerp"><a href="https://overframe.gg/" class="link-2" target="_blank">Overframe</a></li>
+                                <li class="footerp"><a href="https://www.mtgsalvation.com/" class="link-2" target="_blank">MTG&nbsp;Salvation</a></li>
+                                <li class="footerp"><a href="https://www.diablofans.com/" class="link-2" target="_blank">DiabloFans</a></li>
+                                <li class="footerp"><a href="https://www.arclight-champion.com/" class="link-2" target="_blank">Arclight-Champion</a></li>
+                                <li class="footerp"><a href="https://www.bluetracker.gg/" class="link-2" target="_blank">BlueTracker.gg</a></li>
+                                <li class="footerp"><a href="https://www.minecraftstation.com/" class="link-2" target="_blank">Minecraft Station</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="divlinks moba-links">
+        <div class="divfull">
+            <div>
+                <h4 class="footerh4 footer-header-center">MOBAFire Network</h4>
+                    <div class="divcommunities moba-sites">
+                    <div class="divp">
+                        <ul class="footerlistlinks w-list-unstyled">
+                            <li class="footerp"><a href="https://www.mobafire.com/" class="link-2" target="_blank">MOBAFire.com</a></li>
+                            <li class="footerp"><a href="https://www.counterstats.net" class="link-2" target="_blank">CounterStats.net</a></li>
+                            <li class="footerp"><a href="https://porofessor.gg/" class="link-2" target="_blank">Porofessor.gg</a></li>
+                            <li class="footerp"><a href="https://www.resetera.com/" class="link-2" target="_blank">ResetEra.com</a></li>
+                            <li class="footerp"><a href="https://bftactics.com/" class="link-2" target="_blank">bftactics.com</a></li>
+                        </ul>
+                    </div><div class="divp">
+                        <ul class="footerlistlinks w-list-unstyled">
+                            <li class="footerp"><a href="https://www.wildriftfire.com/" class="link-2" target="_blank">WildRiftFire.com</a></li>
+                            <li class="footerp"><a href="https://www.runeterrafire.com/" class="link-2" target="_blank">RuneterraFire.com</a></li>
+                            <li class="footerp"><a href="https://www.farmfriends.gg/" class="link-2" target="_blank">FarmFriends.gg</a></li>
+                            <li class="footerp"><a href="https://www.leagueofgraphs.com/" class="link-2" target="_blank">LeagueOfGraphs.com</a></li>
+                            <li class="footerp"><a href="https://www.2xkofire.com/" class="link-2" target="_blank">2XKOFire.com</a></li>
+                        </ul>
+                    </div><div class="divp">
+                        <ul class="footerlistlinks w-list-unstyled">
+                            <li class="footerp"><a href="https://www.smitefire.com" class="link-2" target="_blank">SMITEFire.com</a></li>
+                            <li class="footerp"><a href="https://www.dotafire.com" class="link-2" target="_blank">DOTAFire.com</a></li>
+                            <li class="footerp"><a href="https://www.lostarkfire.com" class="link-2" target="_blank">LostarkFire.com</a></li>
+                            <li class="footerp"><a href="https://www.valofessor.gg/" class="link-2" target="_blank">Valofessor.gg</a></li>
+                        </ul>
+                    </div><div class="divp">
+                        <ul class="footerlistlinks w-list-unstyled">
+                            <li class="footerp"><a href="https://www.heroesfire.com" class="link-2" target="_blank">HeroesFire.com</a></li>
+                            <li class="footerp"><a href="https://www.vaingloryfire.com" class="link-2" target="_blank">VaingloryFire.com</a></li>
+                            <li class="footerp"><a href="https://www.mmorpg.com/" class="link-2" target="_blank">MMORPG.com</a></li>
+                            <li class="footerp"><a href="https://www.forzafire.com/" class="link-2" target="_blank">ForzaFire.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="copyright-container w-container">
+    <p class="pcopyright">© 2026 Magic Find, Inc. All rights reserved.</p>
+</div>
+    <!--<span class="copyright">© 2026 MagicFind, Inc. All rights reserved.</span>-->
+</div>
+
+<a data-ga-click-event-tracking-category="Mobile View" id="responsive-footer-button" class="rs-link rs-link-to-responsive">Mobile View</a>
+<div class="footer-magic-find">
+<div class="copyright-container w-container">
+<p class="pcopyright">NOT AN OFFICIAL MINECRAFT WEBSITE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT</p>
+</div>
+</div>
+        </footer>
+        
+<div class="page-block btf-ad-analytic">
+
+        <div class="xt-placement xt-skindiv btf-ad-analytic">
+            <!--
+<script>
+(function () {
+var num = window.innerWidth < 1024 ? '00' : 'skin';
+document.write('<div id="cdm-zone-' + num + '"></div>');
+})();
+</script>
+-->
+        </div>
+
+    
+</div>
+        <div class="xt-placement xt-enddiv ">
+            <script>!function(e){const r={"Europe/Brussels":"gdpr","Europe/Sofia":"gdpr","Europe/Prague":"gdpr","Europe/Copenhagen":"gdpr","Europe/Berlin":"gdpr","Europe/Tallinn":"gdpr","Europe/Dublin":"gdpr","Europe/Athens":"gdpr","Europe/Madrid":"gdpr","Africa/Ceuta":"gdpr","Europe/Paris":"gdpr","Europe/Zagreb":"gdpr","Europe/Rome":"gdpr","Asia/Nicosia":"gdpr","Europe/Nicosia":"gdpr","Europe/Riga":"gdpr","Europe/Vilnius":"gdpr","Europe/Luxembourg":"gdpr","Europe/Budapest":"gdpr","Europe/Malta":"gdpr","Europe/Amsterdam":"gdpr","Europe/Vienna":"gdpr","Europe/Warsaw":"gdpr","Europe/Lisbon":"gdpr","Atlantic/Madeira":"gdpr","Europe/Bucharest":"gdpr","Europe/Ljubljana":"gdpr","Europe/Bratislava":"gdpr","Europe/Helsinki":"gdpr","Europe/Stockholm":"gdpr","Europe/London":"gdpr","Europe/Vaduz":"gdpr","Atlantic/Reykjavik":"gdpr","Europe/Oslo":"gdpr","Europe/Istanbul":"gdpr","Europe/Zurich":"gdpr"},p=(()=>{const e=Intl.DateTimeFormat().resolvedOptions().timeZone;return r[e]||null})();if(null===p||"gdpr"!==p){const r="__adblocker";if(-1===e.cookie.indexOf(r)){const p=new XMLHttpRequest;p.open("GET","https://ads.adthrive.com/abd/abd.js",!0),p.onreadystatechange=function(){if(XMLHttpRequest.DONE===p.readyState)if(200===p.status){const r=e.createElement("script");r.innerHTML=p.responseText,e.getElementsByTagName("head")[0].appendChild(r)}else{const p=new Date;p.setTime(p.getTime()+3e5),e.cookie=r+"=true; expires="+p.toUTCString()+"; path=/"}},p.send()}}}(document);</script>
+<script>!function(){function e(){var e=document.cookie.match("(^|[^;]+)\s*__adblocker\s*=\s*([^;]+)");return e&&e.pop()}function t(){var e=document.createElement("script");e.async=!0,e.id="Tqgkgu",e.setAttribute("data-sdk","l/1.1.15"),e.setAttribute("data-cfasync","false"),e.src="https://html-load.com/loader.min.js",e.charset="UTF-8",e.setAttribute("data","kfpvgbrkab9r4a5rkrqrkwagrw6rzrv8rxag0asrka5abaoagrxa5srxrxabasrkrvabaoaxrx0asrkabrxfaba1raa5a5asrkr9wa1agrw6rzr9rkaia8"),e.setAttribute("onload","(async()=>{let e='html-load.com';const t=window,a=document,r=e=>new Promise((t=>{const a=.1*e,r=e+Math.floor(2*Math.random()*a)-a;setTimeout(t,r)})),o=t.addEventListener.bind(t),n=t.postMessage.bind(t),s=btoa,i='message',l=location,c=Math.random;try{const t=()=>new Promise(((e,t)=>{let a=c().toString(),r=c().toString();o(i,(e=>e.data===a&&n(r,'*'))),o(i,(t=>t.data===r&&e())),n(a,'*'),setTimeout((()=>{t(Error('Timeout'))}),1231)})),a=async()=>{try{let e=!1;const a=c().toString();if(o(i,(t=>{t.data===a+'_as_res'&&(e=!0)})),n(a+'_as_req','*'),await t(),await r(500),e)return!0}catch(e){}return!1},s=[100,500,1e3];for(let o=0;o<=s.length&&!await a();o++){if(o===s.length-1)throw'Failed to load website properly since '+e+' is tainted. Please allow '+e;await r(s[o])}}catch(d){try{const e=a.querySelector('script#Tqgkgu').getAttribute('onerror');t[s(l.hostname+'_show_bfa')]=d,await new Promise(((t,r)=>{o('message',(e=>{'as_modal_loaded'===e.data&&t()})),setTimeout((()=>r(d)),3e3);const n=a.createElement('script');n.innerText=e,a.head.appendChild(n),n.remove()}))}catch(m){(t=>{const a='https://report.error-report.com/modal';try{confirm('There was a problem loading the page. Please click OK to learn more.')?l.href=a+'?url='+s(l.href)+'&error='+s(t)+'&domain='+e:l.reload()}catch(d){location.href=a+'?eventId=&error=Vml0YWwgQVBJIGJsb2NrZWQ%3D&domain='+e}})(d)}}})();"),e.setAttribute("onerror","(async()=>{const e=window,t=document;let r=JSON.parse(atob('WyJodG1sLWxvYWQuY29tIiwiZmIuaHRtbC1sb2FkLmNvbSIsImQzN2o4cGZ4dTJpb2dpLmNsb3VkZnJvbnQubmV0IiwiY29udGVudC1sb2FkZXIuY29tIiwiZmIuY29udGVudC1sb2FkZXIuY29tIl0=')),o=r[0];const a='addEventListener',n='setAttribute',s='getAttribute',i=location,l=clearInterval,c='as_retry',d=i.hostname,h=e.addEventListener.bind(e),m=btoa,u='https://report.error-report.com/modal',b=e=>{try{confirm('There was a problem loading the page. Please click OK to learn more.')?i.href=u+'?url='+m(i.href)+'&error='+m(e)+'&domain='+o:i.reload()}catch(t){location.href=u+'?eventId=&error=Vml0YWwgQVBJIGJsb2NrZWQ%3D&domain='+o}},p=async e=>{try{localStorage.setItem(i.host+'_fa_'+m('last_bfa_at'),Date.now().toString())}catch(p){}setInterval((()=>t.querySelectorAll('link,style').forEach((e=>e.remove()))),100);const r=await fetch('https://error-report.com/report?type=loader_light&url='+m(i.href)+'&error='+m(e),{method:'POST'}).then((e=>e.text())),a=new Promise((e=>{h('message',(t=>{'as_modal_loaded'===t.data&&e()}))}));let s=t.createElement('iframe');s.src=u+'?url='+m(i.href)+'&eventId='+r+'&error='+m(e)+'&domain='+o,s[n]('style','width:100vw;height:100vh;z-index:2147483647;position:fixed;left:0;top:0;');const c=e=>{'close-error-report'===e.data&&(s.remove(),removeEventListener('message',c))};h('message',c),t.body.appendChild(s);const d=setInterval((()=>{if(!t.contains(s))return l(d);(()=>{const e=s.getBoundingClientRect();return'none'!==getComputedStyle(s).display&&0!==e.width&&0!==e.height})()||(l(d),b(e))}),1e3);await new Promise(((t,r)=>{a.then(t),setTimeout((()=>r(e)),3e3)}))},f=m(d+'_show_bfa');if(e[f])p(e[f]);else try{if(void 0===e[c]&&(e[c]=0),e[c]>=r.length)throw'Failed to load website properly since '+o+' is blocked. Please allow '+o;if((()=>{const t=e=>{let t=0;for(let r=0,o=e.length;o>r;r++)t=(t<<5)-t+e.charCodeAt(r),t|=0;return t},r=Date.now(),o=r-r%864e5,a=o-864e5,n=o+864e5,s='loader-check',i='as_'+t(s+'_'+o),l='as_'+t(s+'_'+a),c='as_'+t(s+'_'+n);return i!==l&&i!==c&&l!==c&&!!(e[i]||e[l]||e[c])})())return;const i=t.querySelector('#Tqgkgu'),l=t.createElement('script');for(let e=0;e<i.attributes.length;e++)l[n](i.attributes[e].name,i.attributes[e].value);const h=m(d+'_onload');e[h]&&l[a]('load',e[h]);const u=m(d+'_onerror');e[u]&&l[a]('error',e[u]);const b=new e.URL(i[s]('src'));b.host=r[e[c]++],l[n]('src',b.href),i[n]('id',i[s]('id')+'_'),i.parentNode.insertBefore(l,i),i.remove()}catch(w){try{await p(w)}catch(w){b(w)}}})();"),document.head.appendChild(e);var t=document.createElement("script");t.setAttribute("data-cfasync","false"),t.setAttribute("nowprocket",""),t.textContent="(async()=>{function t(t) { const e = t.length; let o = ''; for (let r = 0; e > r; r++) { o += t[2939 * (r + 20) % e] } return o }const e=window,o=t('Elementcreate'),r=t('pielnddaCph'),n=t('erdeLtedvtsnaEni'),c=t('tAtesetubirt'),a=document,i=a.head,s=a[o].bind(a),d=i[r].bind(i),l=location,m=l.hostname,h=btoa;e[n].bind(e);let u=t('oad.comhtml-l');(async()=>{try{const n=a.querySelector(t('#Tqgkguscript'));if(!n)throw t('onnaC dnif t')+u+t('i.cp rts');const i=n.getAttribute(t('nororre')),f=n.getAttribute(t('aolnod')),p=await new Promise((o=>{const r=t('x')+Math.floor(1e6*Math.random());e[r]=()=>o(!0);const n=s(t('pircst'));n.src=t(':atad;'),n[c](t('nororre'),t('iw.wodn')+r+t('()')),d(n),setTimeout((()=>{o(!1), n.remove()}),251)}));if(p)return;function o(){const e=s(t('pircst'));e.innerText=i,d(e),e.remove()}const b=h(m+t('o_daoln')),w=h(m+t('rrnr_eoo'));e[b]=function(){const e=s(t('pircst'));e.innerText=f,d(e),e.remove()},e[w]=o,o()}catch(r){(e => { const o = t('ro/treeol/t-.dsoormterpmh/.rca:rrtopp'); try { const r = t('cleopr   eges.eke aremtc. m Ta apdo ool t ahrOsaibwr iPhl enKegnlael'); confirm(r) ? l.href = o + t('?=lru') + h(l.href) + t('e&=rorr') + h(e) + t('a=oi&mnd') + u : l.reload() } catch (r) { location.href = o + t('J%ndVVNdvrYGQiI=Q2&ee0IWatrgbD?&lJZmnows3==mBroerW') + u } })(r)}})()})();",document.head.appendChild(t)}!function(){var r=e();if("true"===r)t();else var o=0,a=setInterval(function(){if(100!==o&&"false"!==r){if("true"===r)return t(),void clearInterval(a);r=e(),o++}else clearInterval(a)},50)}()}();</script>
+        </div>
+
+    
+        <div class="xt-placement xt-vmdiv ">
+            <div class="vm-placement" data-id="5f648ce7583dac4037e909bb" style="display:none"></div>
+        </div>
+
+    
+    </div>
+
+    <!-- Layout End -->
+    <div id="analytics">
+        
+    </div>
+
+    
+    
+
+<script type="text/javascript">
+    Cobalt.Device.initialize();
+    Cobalt.Burger.initializeEarly();
+
+    Cobalt.Constants.initialize({"StaticURL":"/Content/1-7-10006-0","SkinPath":"/Content/1-7-10006-0/Skins/MinecraftForum","MediaURL":"https://media.minecraftforum.net/","AvatarURL":"https://media.minecraftforum.net/avatars","AttachmentURL":"https://media.minecraftforum.net/attachments","ActiveConfiguration":"production"});
+    
+    Cobalt.Constants.BuildVersion = "1-7-10006-0";
+    Cobalt.Constants.IsDevelopment = false;
+    Cobalt.Constants.IgnoredUserIDs = [];
+    Cobalt.Constants.ServerTimestamp = 1777968443172.39
+    Cobalt.Constants.FacebookAppID = "591202334328614";
+    Cobalt.Constants.QuoteCssClasses = "";
+    Cobalt.User.EnabledLanguageIDs = [1];
+    Cobalt.User.MaxQuoteDepth = 5;
+    Cobalt.User.AuthToken = "";
+    Cobalt.TinyMCE.extraPlugins = "mod,world,texturepack";
+    Cobalt.TinyMCE.extraButtons = "mod,world,texturepack";
+    Cobalt.TinyMCE.extraCustomPlugins = "mod,world,texturepack";     
+
+    // NOTE: if you need to debug into tinymce, then change the following line to tinymce.js
+    Cobalt.TinyMCE.url = Cobalt.Constants.StaticURL + "/js/tinymce/tiny_mce/tinymce.min.js";
+    Cobalt.TinyMCE.customPluginUrl = Cobalt.Constants.StaticURL + "/js/tinymce/custom_plugins";
+    Cobalt.TinyMCE.skin_url = Cobalt.Constants.StaticURL + "/js/tinymce/custom_skin";
+    
+   
+    
+    Cobalt.Constants.SiteID = 2;
+    Cobalt.Constants.SiteName = "Minecraft Forum";
+    Cobalt.TinyMCE.fontColorEnabled = true;
+    Cobalt.TinyMCE.fontSizeEnabled = true;
+    Cobalt.TinyMCE.fontFamilyEnabled = true;
+    Cobalt.TinyMCE.textAlignmentEnabled = true;
+    Cobalt.TinyMCE.smiliesEnabled = true;
+    Cobalt.TinyMCE.forceSimpleBBCodeEditor = false;  
+    Cobalt.Constants.NestedQuotePreference  = 2;
+    
+    $.ajaxSetup({
+        data: {},
+        timeout: 30000
+    });
+    
+    
+
+    //bbcode entries
+    
+    Cobalt.Markup.customBBcodeButtons = [];    
+    
+    
+    
+    Cobalt.CMS.CobaltCss = ["/Content/1-7-10006-0/Skins/Global-TinyMCE/css/compiled.css"];    
+    Cobalt.CMS.ProjectCss = ["/Content/1-7-10006-0/Skins/MinecraftForum/css/compiled.css"];
+
+    // set the tracking id for google analytics on this site
+    Cobalt.Analytics.trackingId = 'UA-1045810-37';
+
+</script>
+
+
+<script type="text/javascript">
+
+    Cobalt.runOnLoad(function () {
+        Cobalt.initialize([{dependency:Cobalt.Analytics, priority:99, name:'Cobalt.Analytics'},{dependency:Cobalt.TinyMCE, priority:99, name:'Cobalt.TinyMCE'},{dependency:Cobalt.Tabs, priority:99, name:'Cobalt.Tabs'},{dependency:Cobalt.NiceDates, priority:99, name:'Cobalt.NiceDates'},{dependency:Cobalt.Core, priority:99, name:'Cobalt.Core'},{dependency:Cobalt.Forms, priority:99, name:'Cobalt.Forms'},{dependency:Cobalt.UI, priority:99, name:'Cobalt.UI'},{dependency:Cobalt.Notifications, priority:99, name:'Cobalt.Notifications'},{dependency:Cobalt.Feedback, priority:99, name:'Cobalt.Feedback'},{dependency:Cobalt.WarningNotification, priority:99, name:'Cobalt.WarningNotification'},{dependency:Cobalt.Footer, priority:99, name:'Cobalt.Footer'},{dependency:Cobalt.Tidbit, priority:99, name:'Cobalt.Tidbit'},{dependency:Cobalt.BunnyEars, priority:99, name:'Cobalt.BunnyEars'}]);
+    });
+
+</script>
+</body>
+</html>
