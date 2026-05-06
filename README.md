@@ -69,8 +69,12 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [nvim-linux-x86_64.tar](https://github.com/hoseda-r/downloader/tree/main/downloads/nvim-linux-x86_64.tar)
+1. [JetBrainsMono](https://github.com/hoseda-r/downloader/tree/main/downloads/JetBrainsMono)
+
+2. [nvim-linux-x86_64.tar](https://github.com/hoseda-r/downloader/tree/main/downloads/nvim-linux-x86_64.tar)
 
 ---
