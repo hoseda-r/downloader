@@ -73,12 +73,16 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [JetBrainsMono](https://github.com/hoseda-r/downloader/tree/main/downloads/JetBrainsMono)
 
 2. [Microsoft.VisualStudio.Services](https://github.com/hoseda-r/downloader/tree/main/downloads/Microsoft.VisualStudio.Services)
 
-3. [nvim-linux-x86_64.tar](https://github.com/hoseda-r/downloader/tree/main/downloads/nvim-linux-x86_64.tar)
+3. [bottles-x86_64](https://github.com/hoseda-r/downloader/tree/main/downloads/bottles-x86_64)
+
+4. [nvim-linux-x86_64.tar](https://github.com/hoseda-r/downloader/tree/main/downloads/nvim-linux-x86_64.tar)
 
 ---
