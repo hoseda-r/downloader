@@ -77,6 +77,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Bottles_63.2-1-archimage5.0-x86_64](https://github.com/hoseda-r/downloader/tree/main/downloads/Bottles_63.2-1-archimage5.0-x86_64)
@@ -87,6 +89,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 4. [bottles-x86_64](https://github.com/hoseda-r/downloader/tree/main/downloads/bottles-x86_64)
 
-5. [nvim-linux-x86_64.tar](https://github.com/hoseda-r/downloader/tree/main/downloads/nvim-linux-x86_64.tar)
+5. [mhrv-rs-android-universal-v1.9.19](https://github.com/hoseda-r/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.19)
+
+6. [nvim-linux-x86_64.tar](https://github.com/hoseda-r/downloader/tree/main/downloads/nvim-linux-x86_64.tar)
 
 ---
